@@ -140,7 +140,7 @@ body {
 
 img {
   min-width: 100%;
-  height: calc(100vh  + 8px);
+  height: calc(100vh + 15vh);
   flex: none;
 }
 
